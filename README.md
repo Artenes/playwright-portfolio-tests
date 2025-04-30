@@ -33,7 +33,7 @@ playwright-portfolio-tests/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/playwright-portfolio-tests.git
+git clone https://github.com/Artenes/playwright-portfolio-tests.git
 cd playwright-portfolio-tests
 ```
 
